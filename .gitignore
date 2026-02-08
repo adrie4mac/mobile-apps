@@ -1,0 +1,5 @@
+# Mac .DS_Store files (desktop/folder conf files)
+*.DS_Store
+
+# intelj files
+*.idea/
